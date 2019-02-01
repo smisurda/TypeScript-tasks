@@ -1,0 +1,1 @@
+Each problem is addresed in a folder of the format "Problem N". The folders contain TypeScript and generated JS files, as well as an HTML file that pints the output of the test cases. Problems 2 and 3 are built as modules; however, I use Browserify, so there shouldn't be an additional commands to run.  
